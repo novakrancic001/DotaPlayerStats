@@ -207,9 +207,6 @@ C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\dotnet.runtime.js.m
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.itra0t4ict.wasm
-C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.j3zot9pdta.pdb
-C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\dotnet.8c24jm0cqq.js
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.66stpp682q.js.gz
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.f7yamg8acn.wasm.gz
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.i180xx2qq9.wasm.gz
@@ -418,9 +415,6 @@ C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\dotnet.runtime.js.m
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.itra0t4ict.wasm.gz
-C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.j3zot9pdta.pdb.gz
-C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\dotnet.8c24jm0cqq.js.gz
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\DotaPlayerStats.staticwebassets.runtime.json
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\DotaPlayerStats.staticwebassets.endpoints.json
 C:\Apps\DotaPlayerStats\bin\Debug\net10.0\DotaPlayerStats.dll
@@ -854,7 +848,6 @@ C:\Apps\DotaPlayerStats\obj\Debug\net10.0\blazor.build.boot-extension.json
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\dotnet.js
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\staticwebassets\htmlassetplaceholders\build\kp9ps3jbg1.html
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\f9o902iofb-{0}-99zm1jdh75-99zm1jdh75.gz
-C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\bhh97ude0m-{0}-nk9bgqz024-nk9bgqz024.gz
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\dlsd23yen7-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\quh0t7rudo-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\qbqp4ztt8e-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -1110,10 +1103,6 @@ C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\a87kmkksl7-{0}-w32q1gbcwp-w
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\rnfnwn8mex-{0}-tjcz0u77k5-tjcz0u77k5.gz
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\vqfzhwjoih-{0}-tptq2av103-tptq2av103.gz
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\yyxk42r6j2-{0}-lfu7j35m59-lfu7j35m59.gz
-C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\8p51r4qqag-{0}-itra0t4ict-itra0t4ict.gz
-C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\b1isu5mwdk-{0}-j3zot9pdta-j3zot9pdta.gz
-C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\aq88x9d42k-{0}-8c24jm0cqq-8c24jm0cqq.gz
-C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\g7xbwkv3mq-{0}-8mncstbplq-8mncstbplq.gz
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\staticwebassets.build.json
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\staticwebassets.development.json
@@ -1124,3 +1113,15 @@ C:\Apps\DotaPlayerStats\obj\Debug\net10.0\DotaPlayerStats.dll
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\refint\DotaPlayerStats.dll
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\DotaPlayerStats.pdb
 C:\Apps\DotaPlayerStats\obj\Debug\net10.0\ref\DotaPlayerStats.dll
+C:\Apps\DotaPlayerStats\obj\Debug\net10.0\DotaPlayerStats.sourcelink.json
+C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\bhh97ude0m-{0}-xs5q2j77g2-xs5q2j77g2.gz
+C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.6yamha2ect.wasm
+C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.d1g1ebuio6.pdb
+C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\dotnet.4y314egau8.js
+C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.6yamha2ect.wasm.gz
+C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\DotaPlayerStats.d1g1ebuio6.pdb.gz
+C:\Apps\DotaPlayerStats\bin\Debug\net10.0\wwwroot\_framework\dotnet.4y314egau8.js.gz
+C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\8p51r4qqag-{0}-6yamha2ect-6yamha2ect.gz
+C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\b1isu5mwdk-{0}-d1g1ebuio6-d1g1ebuio6.gz
+C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\aq88x9d42k-{0}-4y314egau8-4y314egau8.gz
+C:\Apps\DotaPlayerStats\obj\Debug\net10.0\compressed\g7xbwkv3mq-{0}-d0l3nz1oec-d0l3nz1oec.gz

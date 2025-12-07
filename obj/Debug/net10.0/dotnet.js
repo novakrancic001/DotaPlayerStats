@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "DotaPlayerStats",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-FsE7WKe3DaxJsas3Kawtg+0piOUJnvOKgKs5lI+6kq4=",
+    "hash": "sha256-Yw4yBDIoaLdYBD9oOJgEKOkcgLfJuSjffzNmnocyEFo=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.xanz2e7ksm.js"
@@ -1039,15 +1039,15 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "DotaPlayerStats.wasm",
-        "name": "DotaPlayerStats.itra0t4ict.wasm",
-        "integrity": "sha256-qgDHJio1UlOuG+kH5wOYRyv4BQshWHN1RdiRdOx5Syg="
+        "name": "DotaPlayerStats.6yamha2ect.wasm",
+        "integrity": "sha256-EmbccbWB44/LoCKhdQnj56SqewCyQN6LC2lxgYxXd0I="
       }
     ],
     "pdb": [
       {
         "virtualPath": "DotaPlayerStats.pdb",
-        "name": "DotaPlayerStats.j3zot9pdta.pdb",
-        "integrity": "sha256-r5ivS5Qt5i9G9k0ke5wS/K159Z9kBBS7Q1FG8HywLMQ="
+        "name": "DotaPlayerStats.d1g1ebuio6.pdb",
+        "integrity": "sha256-j75OvOVN16bEQukGmzNfXqTqYrDubiXEsmV+tBNPLuc="
       }
     ],
     "libraryInitializers": [

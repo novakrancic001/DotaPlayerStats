@@ -113,3 +113,31 @@ code {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+.search-box {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.search-box input {
+    padding: 8px;
+    font-size: 16px;
+}
+
+.search-box button {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.player-card {
+    border: 1px solid #444;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+}
+
+.player-card img {
+    width: 120px;
+    border-radius: 10px;
+}

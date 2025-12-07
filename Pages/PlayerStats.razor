@@ -1,0 +1,61 @@
+@page "/player"
+@inject DotaApiService DotaApi
+@using DotaPlayerStats.Services
+@using DotaPlayerStats.Models
+@inject HttpClient Http
+
+<PageTitle>PlayerStats</PageTitle>
+
+<h1>Dota 2 Player Stats</h1>
+
+<div class="search-box">
+    <input @bind="playerId" placeholder="Enter Steam32 ID..." />
+    <button @onclick="LoadPlayerData">Search</button>
+</div>
+
+@if (isLoading)
+{
+    <p>Loading...</p>
+}
+else if (player != null)
+{
+    <div class="player-card">
+        <img src="@player.profile.avatarfull" />
+        <h2>@player.profile.personaname</h2>
+
+        <p><strong>Rank Tier:</strong> @player.rank_tier</p>
+
+        <h3>Recent Matches</h3>
+
+        <ul>
+            @foreach (var match in recentMatches)
+            {
+                <li>
+                    Match: @match.match_id — KDA: @match.kills/@match.deaths/@match.assists
+                </li>
+            }
+        </ul>
+    </div>
+}
+
+@code {
+    string playerId;
+    Player player;
+    List<RecentMatch> recentMatches = new();
+    bool isLoading = false;
+
+    async Task LoadPlayerData()
+    {
+        if (string.IsNullOrWhiteSpace(playerId))
+            return;
+
+        isLoading = true;
+
+        long id = long.Parse(playerId);
+
+        player = await DotaApi.GetPlayerAsync(id);
+        recentMatches = await DotaApi.GetRecentMatchesAsync(id);
+
+        isLoading = false;
+    }
+}
